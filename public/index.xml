@@ -2,32 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bruna Wundervald</title>
-    <link>https://example.com/</link>
+    <link>/</link>
     <description>Recent content on Bruna Wundervald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Plain Markdown Post</title>
-      <link>https://example.com/2016/12/30/a-plain-markdown-post/</link>
+      <link>/2016/12/30/a-plain-markdown-post/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
       
-      <guid>https://example.com/2016/12/30/a-plain-markdown-post/</guid>
+      <guid>/2016/12/30/a-plain-markdown-post/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
-    </item>
-    
-    <item>
-      <title>Sobre</title>
-      <link>https://example.com/sobre/</link>
-      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/sobre/</guid>
-      <description>   brunadaviesw@gmail.com  Olá! Eu sou a Bruna, graduanda em Estatística pela UFPR, e tenho como interesses de pesquisa modelos de regressão multivariados, modelos não lineares e modelos grafos probabilísticos. Sou membro do Laboratório de Estatística e Geoinformação  (LEG), e usuária ativa do R e GIT.  </description>
     </item>
     
   </channel>
