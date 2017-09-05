@@ -5,7 +5,7 @@ title = "Bruna Wundervald"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-theme = "hyde"
+theme = "hugo-sustain"
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
