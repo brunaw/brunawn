@@ -7,11 +7,13 @@
         <div class="avatar">
           <img class="img-circle" src="{{ .Site.BaseURL }}img/{{ .Site.Params.avatar }}" alt="Responsive image">
         </div>
-        <h3>I'm <strong>{{ .Site.Params.author }}</strong>, a Software Engineer.</h3>
-        <h3>I love all things computer science and maths.</h3>
-        <h3>Have a look at some of my working <a href="{{ .Site.BaseURL }}projects/"> projects</a>.</h3>
-        <h3>For more check out my academic &amp; professional <a href="https://demo.nurlan.co/hugo-vitae/">resume</a>.</h3>
-        <h3>Contact me at <a href="http://twitter.com/{{ .Site.Params.Social.Twitter }}">@{{ .Site.Params.Social.Twitter }}</a> or by <a href="mailto:{{ .Site.Params.Social.Email }}">email</a>.</h3>
+        <h3>Olá! Eu sou a <strong>{{ .Site.Params.author }}</strong>, graduanda em Estatística na UFPR.</h3>
+        <h3>Tenho como interesses de pesquisa modelos de regressão multivariados, </h3>
+		<h3> modelos não lineares e modelos grafos probabilísticos. </h3>
+        <h3> Dê uma olhada no meu <a href="http://github.com/brunaw"> GitHub</a>.</h3>
+        <h3> Para mais informações acadêmicas e profissionais, você</h3>
+        <h3>pode olhar o meu <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8105709Z2">Currículo Lattes</a>.</h3>
+        <h3>Contate-me através do meu <a href="mailto:{{ .Site.Params.Social.Email }}">email</a>.</h3>
         {{ partial "social.html" . }}
         </div>
       </section>

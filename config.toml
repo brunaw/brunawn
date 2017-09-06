@@ -30,10 +30,15 @@ theme = "hugo-sustain"
   identifier = "blog"
   url = "/blog/"
 [[menu.main]]
-  name = "projects"
+  name = "GitHub"
+  weight = 100
+  identifier = "GitHub"
+  url = "http://github.com/brunaw"
+[[menu.main]]
+  name = "Projetos"
   identifier = "Projetos"
   weight = 200
-  url = "/projects/"
+  url = "/Projetos/"
 [[menu.main]]
   name = "Lattes"
   identifier = "Lattes"
